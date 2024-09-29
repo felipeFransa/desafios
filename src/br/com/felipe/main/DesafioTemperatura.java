@@ -1,3 +1,5 @@
+package br.com.felipe.main;
+
 public class DesafioTemperatura {
 
     public static void main(String[] args) {
